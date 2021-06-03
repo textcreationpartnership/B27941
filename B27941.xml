@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At the angel and crown in Basing-lane, being the second turning in Bread-street, from Cheapside, on the left hand, lives John Pechey, of long standing in the Colledge of Physicians in London.</title>
+            <author>Pechey, John, 1655-1716.</author>
+         </titleStmt>
+         <extent>Approx. 2KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27941</idno><idno type="EEBO-CITATION">99889035</idno>
+  <idno type="VID">196161</idno>
+  <idno type="EEBO-PROQUEST">2248544121</idno>
+  
+            <idno type="STC">Wing P1017O</idno>
+            <idno type="STC">Interim Tract Supplement Guide 551.a.32[170]</idno>
+            <idno type="STC">ESTC R232702</idno>
+            <idno type="PROQUEST">ocm99889035</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99889035e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27941)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196161)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:2[169])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At the angel and crown in Basing-lane, being the second turning in Bread-street, from Cheapside, on the left hand, lives John Pechey, of long standing in the Colledge of Physicians in London.</title>
+                  <author>Pechey, John, 1655-1716.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint information from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Medicine --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Medicine, popular --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert_for_free_medical_treatment">
+            <pb facs="tcp:196161:1"/>
+            <head>
+               <hi>At the</hi> Angel <hi>and</hi> Crown <hi>in</hi> Basing-Lane, <hi>being the Second Turning in</hi> Bread-street <hi>from</hi> Cheapside, <hi>on the left hand, Lives</hi> John Pechey, <hi>of long stand<g ref="char:EOLhyphen"/>ing in the Colledge of Physicians in</hi> London.</head>
+            <p>ANd because it is commonly reported, that Physicians will do nothing without their <hi>Fees,</hi> he proposes to under<g ref="char:EOLhyphen"/>take the following Diseases, and will require nothing for the <hi>Cure,</hi> till it is performed, provided the Disease is not ren<g ref="char:EOLhyphen"/>dred incurable by ill management, or other Accidents; and if it be so, he will plainly tell the Sick or their Friends so, that they may not be cheated or abused by ignorant Pretenders.</p>
+            <div type="diseases_treated_for_free">
+               <head>The Diseases.</head>
+               <p>Deafness, Sore Eyes, Coughs, Consumptions, Stomach-Pains, Vomitting, Cholick, Jaundice, Dropsie, Fevers, Agues, Running of the Reins▪ known by the heat and sharpness of Urine &amp; Matter issuing from the part affected, and all other Symptoms belong<g ref="char:EOLhyphen"/>ing to the <hi>French</hi> Disease, as Pains in the Head, Ulcers in the Throat, Swellings in the Groin, Nodes, Night-pains, Scabs, and Breakings out in any part of the Body, and the like, Mother-Fits, Green-sickness, Kings-Evil, Old Sores, Pains and Lame<g ref="char:EOLhyphen"/>ness in the Limbs, Itch, Piles, Bursten Bellies.</p>
+               <p>His Excellent <hi>Purging Pills</hi> Cure the <hi>Scurvy,</hi> and purge <hi>Choller, Flegm, Water,</hi> and <hi>Melancholy;</hi> they Purge the <hi>Head, Breast,</hi> and <hi>Stomach,</hi> and Cure the Running of the Reins, and are as good a Purge as can be used in the <hi>French</hi> Disease, and prevent much danger, if they are taken two or three Mornings after it is feared any injury has bin received thereby. They may be taken in the hottest or coldest Weather, and keep good many Years, therefore proper Physick for the Sea or Country. The Prince of a Box of them is One Shilling Six Pence, with a note of Directions.</p>
+               <p>
+                  <hi>His Hours are from Seven in the Morning till Nine at Night.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
